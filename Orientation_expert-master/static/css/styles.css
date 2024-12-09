@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa;
+    color: #343a40;
+}
+
+h1 {
+    margin-bottom: 30px;
+    font-weight: bold;
+    color: #007bff;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.list-group-item {
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+    margin-bottom: 10px;
+}

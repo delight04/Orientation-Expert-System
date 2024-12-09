@@ -1,0 +1,159 @@
+[
+    {
+        "filiere": "Informatique",
+        "conditions": {
+            "moyenne_min": 12,
+            "matieres": ["Mathématiques", "Physique"]
+        },
+        "universite": [
+            { "nom": "Faculté des Sciences de Tunis (FST)", "region": "Nord" },
+            { "nom": "Sup'Com", "region": "Nord" },
+            { "nom": "Institut Supérieur d'Informatique de Mahdia", "region": "Centre" },
+            { "nom": "Faculté des Sciences de Sfax", "region": "Sud" }
+        ],
+        "duree": "3 ans (Licence)",
+        "debouches": ["Développeur", "Administrateur systèmes", "Data analyst"],
+        "secteur": ["Ingénierie", "Technologie"]
+    },
+    {
+        "filiere": "Médecine",
+        "conditions": {
+            "moyenne_min": 14,
+            "matieres": ["Biologie", "Chimie"]
+        },
+        "universite": [
+            { "nom": "Faculté de Médecine de Tunis", "region": "Nord" },
+            { "nom": "Faculté de Médecine de Monastir", "region": "Centre" },
+            { "nom": "Faculté de Médecine de Sfax", "region": "Sud" }
+        ],
+        "duree": "6 ans + spécialisation",
+        "debouches": ["Médecin généraliste", "Spécialiste", "Chercheur"],
+        "secteur": ["Santé"]
+    },
+    {
+        "filiere": "Sciences économiques",
+        "conditions": {
+            "moyenne_min": 11,
+            "matieres": ["Economie", "Mathématiques"]
+        },
+        "universite": [
+            { "nom": "FSEG Tunis", "region": "Nord" },
+            { "nom": "IHEC Sousse", "region": "Centre" },
+            { "nom": "IHEC Carthage", "region": "Nord" },
+            { "nom": "FSEG Sfax", "region": "Sud" }
+        ],
+        "duree": "3 ans (Licence)",
+        "debouches": ["Analyste financier", "Comptable", "Consultant en gestion"],
+        "secteur": ["Economie"]
+    },
+    {
+        "filiere": "Architecture",
+        "conditions": {
+            "moyenne_min": 13,
+            "matieres": ["Mathématiques", "Dessin technique"]
+        },
+        "universite": [
+            { "nom": "École Nationale d'Architecture et d'Urbanisme (ENAU)", "region": "Nord" }
+        ],
+        "duree": "5 ans",
+        "debouches": ["Architecte", "Urbaniste", "Designer"],
+        "secteur": ["Ingénierie"]
+    },
+    {
+        "filiere": "Génie civil",
+        "conditions": {
+            "moyenne_min": 12,
+            "matieres": ["Mathématiques", "Physique"]
+        },
+        "universite": [
+            { "nom": "École Nationale d'Ingénieurs de Tunis (ENIT)", "region": "Nord" },
+            { "nom": "École Nationale d'Ingénieurs de Sfax (ENIS)", "region": "Sud" },
+            { "nom": "École Nationale d'Ingénieurs de Monastir (ENIM)", "region": "Centre" }
+        ],
+        "duree": "5 ans",
+        "debouches": ["Ingénieur en bâtiment", "Consultant en infrastructure", "Gestionnaire de projet"],
+        "secteur": ["Ingénierie"]
+    },
+    {
+        "filiere": "Pharmacie",
+        "conditions": {
+            "moyenne_min": 14,
+            "matieres": ["Biologie", "Chimie"]
+        },
+        "universite": [
+            { "nom": "Faculté de Pharmacie de Monastir", "region": "Centre" }
+        ],
+        "duree": "6 ans + spécialisation",
+        "debouches": ["Pharmacien d'officine", "Chercheur en pharmacie", "Consultant en industrie pharmaceutique"],
+        "secteur": ["Santé"]
+    },
+    {
+        "filiere": "Littérature ",
+        "conditions": {
+            "moyenne_min": 10,
+            "matieres": ["Littérature "]
+        },
+        "universite": [
+            { "nom": "Faculté des Lettres, des Arts et des Humanités de la Manouba", "region": "Nord" },
+            { "nom": "Faculté des Lettres et Sciences Humaines de Sousse", "region": "Centre" }
+        ],
+        "duree": "3 ans (Licence)",
+        "debouches": ["Enseignant", "Éditeur", "Chercheur"],
+        "secteur": ["Sciences sociales"]
+    },
+    {
+        "filiere": "Droit",
+        "conditions": {
+            "moyenne_min": 10,
+            "matieres": ["Littérature", "Philosophie"]
+        },
+        "universite": [
+            {"nom": "Faculté des Sciences Juridiques de Tunis", "region": "Nord"},
+            {"nom": "Faculté des Sciences Juridiques de Sfax", "region": "Sud"}
+        ],
+        "duree": "4 ans (Licence)",
+        "debouches": ["Avocat", "Notaire", "Magistrat"],
+        "secteur": ["Sciences sociales"]
+    },
+    {
+        "filiere": "Ingénierie électrique",
+        "conditions": {
+            "moyenne_min": 12,
+            "matieres": ["Mathématiques", "Physique"]
+        },
+        "universite": [
+            {"nom": "École Nationale d'Ingénieurs de Tunis (ENIT)", "region": "Nord"},
+            {"nom": "École Supérieure des Communications de Tunis (Sup'Com)", "region": "Nord"}
+        ],
+        "duree": "5 ans",
+        "debouches": ["Ingénieur électrique", "Consultant en énergie", "Gestionnaire de projets industriels"],
+        "secteur": ["Ingénierie","Technologie"]
+    },
+    {
+        "filiere": "Sciences agronomiques",
+        "conditions": {
+            "moyenne_min": 11,
+            "matieres": ["Biologie", "Chimie"]
+        },
+        "universite": [
+            {"nom": "Institut National Agronomique de Tunisie (INAT)", "region": "Nord"},
+            {"nom": "École Supérieure d'Agriculture de Mograne", "region": "Centre"}
+        ],
+        "duree": "3 ans (Licence) + 2 ans (Ingénieur)",
+        "debouches": ["Agronome", "Chercheur en biotechnologie", "Gestionnaire de fermes"],
+        "secteur": ["Sciences"]
+    },
+    {
+        "filiere": "Design graphique",
+        "conditions": {
+            "moyenne_min": 10,
+            "matieres": ["Dessin", "Technologie"]
+        },
+        "universite": [
+            {"nom": "École Supérieure des Sciences et Technologies du Design (ESSTD)", "region": "Nord"}
+        ],
+        "duree": "3 ans (Licence)",
+        "debouches": ["Designer graphique", "Directeur artistique", "Illustrateur"],
+        "secteur": ["Technologie"]
+    }
+]
